@@ -1,5 +1,5 @@
 Finance App
-Video Demo: [URL HERE]
+Video Demo: https://youtu.be/SfnGFnctMMA
 Description:
 The Finance App is designed to help individuals manage and track their finances more effectively. Users can input their incomes and expenses, and the app displays this data visually in the form of charts, making it easier to understand financial trends over the week and year. This tool is particularly useful for anyone who wants to gain a clearer picture of their financial situation and make informed decisions based on that data.
 
