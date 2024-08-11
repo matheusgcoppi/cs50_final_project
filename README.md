@@ -32,7 +32,7 @@ Backend:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/finance-app.git
+git clone https://github.com/matheusgcoppi/cs50_final_project/
 cd finance-app/backend
 Configure the .env file:
 Provide your database credentials, JWT secret, email SMTP settings, and other necessary configurations.
